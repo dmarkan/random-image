@@ -1,0 +1,14 @@
+{
+  "name": "random-image",
+  "version": "1.0.0",
+  "description": "picks random image from web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darko Markan",
+  "license": "MIT",
+  "dependencies": {
+    "random-pic.js": "^2.0.1"
+  }
+}
